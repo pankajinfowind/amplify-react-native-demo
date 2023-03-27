@@ -23,4 +23,7 @@ video view part one :-
 https://www.dropbox.com/s/rms9pvbcdjjnauv/videoPart1.mov?dl=0
 
 Viedeo view part two :- 
-https://www.dropbox.com/s/or1gcc2ialdxt5i/videopart2.mov?dl=0
+https://www.dropbox.com/s/or1gcc2ialdxt5i/videopart2.mov?
+
+# Android apk
+https://www.dropbox.com/s/ws1bdlbcd6m9fqw/amplifyAndroid.apk?dl=0
